@@ -37,20 +37,29 @@ This frontend is still in progress. The structure is in place, but rendering iss
 
 task-tracker-frontend/
 │
-├── src/
-│   ├── pages/
-│   │   ├── Login.jsx
-│   │   ├── Register.jsx
-│   │   ├── Dashboard.jsx
-│   │   └── TaskList.jsx
-│   │
-│   ├── components/
-│   │   ├── NavBar.jsx
-│   │   └── TaskForm.jsx
-│   │
-│   ├── api.js
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── public/
-└── package.json
+src/
+pages/
+
+Login.jsx
+
+Register.jsx
+
+Dashboard.jsx
+
+TaskList.jsx
+
+components/
+
+NavBar.jsx
+
+TaskForm.jsx
+
+api.js
+
+App.jsx
+
+main.jsx
+
+public/
+
+package.json
